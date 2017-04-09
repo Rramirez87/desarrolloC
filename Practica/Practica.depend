@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1491745340 source:/var/www/html/DESARROLLO/c/Practica/main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1491745318 /var/www/html/DESARROLLO/c/Practica/funciones.h
+	<stdio.h>
+	<stdlib.h>
+
